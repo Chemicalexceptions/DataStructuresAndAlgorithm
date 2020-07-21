@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY nbsp "&#160;">]>
+
+<resources>
+
+
+    <item name="spinnerProject" type="id">
+
+    </item>
+    <item name="spinnerLocation" type="id">
+
+    </item>
+
+    <!--for stricting special characteres-->
+    <string name="charset">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXY Z .,-</string>
+
+
+    <!-- used in task_Approve_activity-->
+    <string name="assign_user">Assign user<font fgcolor='#ff0400'>*</font></string>
+    <string name="alternate_user">Alternate User<font fgcolor='#01009ec6'>*</font></string>
+    <string name="select_supervisor">Select Supervisor<font fgcolor='#ff0400'>*</font></string>
+    <string name="deadline">Deadline<font fgcolor='#ff0400'>*</font></string>
+    <string name="order">Order<font fgcolor='#ff0400'>*</font></string>
+
+
+    <!-- Toast -->
+    <string name="toast_bold">Bold</string>
+    <string name="toast_italic">Italic</string>
+    <string name="toast_underline">Underline</string>
+    <string name="toast_strikethrough">Strikethrough</string>
+    <string name="toast_bullet">Bullet</string>
+    <string name="toast_quote">Quote</string>
+    <string name="toast_insert_link">Insert link</string>
+    <string name="toast_format_clear">Format clear</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_audit_trail_user">AuditTrailUserActivity</string>
+    <string name="title_activity_audit_trail_storage">AuditTrailStorageActivity</string>
+    <string name="title_activity_audit_trail_work_flow">AuditTrailWorkFlowActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+
+    <!-- TODO: Language String in English -->
+    <string name="app_name">EzeeProcess CBSL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="server_error">Server Error</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="dms_report">DMS REPORT</string>
+    <string name="user_management">User Management</string>
+    <string name="authorization">Authorization</string>
+    <string name="user_profile">User Profile</string>
+    <string name="storage_policies">Storage policies</string>
+    <string name="user_manager">User Manager</string>
+    <string name="add_user">Add user</string>
+    <string name="user_list">User List</string>
+    <string name="group_manager">Group Manager</string>
+    <string name="storage_management">Storage Management</string>
+    <string name="storage_manager">Storage Manager</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="shared_with_me">Shared with me</string>
+    <string name="shared_files">Shared Files</string>
+    <string name="shared_folder">Shared Folder</string>
+    <string name="workflow_management">Workflow Management</string>
+    <string name="search_workflow">Search workflow</string>
+    <string name="no_worflows_found">No Worflows Found</string>
+    <string name="intiate_file">Intiate File</string>
+    <string name="task_track_status">Task Track Status</string>
+    <string name="in_tray">In Tray</string>
+    <string name="workflow_audit">Workflow Audit</string>
+    <string name="search">Search</string>
+    <string name="quick_search">Quick Search</string>
+    <string name="metadata_search">Metadata Search</string>
+    <string name="frequently_queries">Frequently Queries</string>
+    <string name="audit_trail">Audit Trail</string>
+    <string name="user_audit">User Audit</string>
+    <string name="storage_audit">Storage Audit</string>
+    <string name="visitor_pass">Visitor Pass</string>
+    <string name="others">Others</string>
+    <string name="support">Support</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="active_user_analytics">\"Active User Analytics \"</string>
+    <string name="need_permisions">Need Permissions</string>
+    <string name="grant_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="goto_settings">GOTO SETTINGS</string>
+    <string name="error_occured">Error occurred!</string>
+    <string name="download_memory_in_mb">Download Memory in MB</string>
+    <string name="upload_memory_in_mb">Upload Memory in MB</string>
+    <string name="memory_usage_in">Memory usage in</string>
+    <string name="urgent">Urgent</string>
+    <string name="medium">Medium</string>
+    <string name="normal">Normal</string>
+    <string name="workflow_priority">Workflow Priority</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="pending">Pending</string>
+    <string name="processed">Processed</string>
+    <string name="complete">Complete</string>
+    <string name="workflow_status">Workflow Status</string>
+    <string name="Pages">Pages</string>
+    <string name="files">Files</string>
+    <string name="folders">Folders</string>
+    <string name="visitors">visitors</string>
+    <string name="worlkflow_audit_trail">Workflow audit trail</string>
+    <string name="storagewise_audit_trail">Storagewise audit trail</string>
+    <string name="storage_report">Storage Report</string>
+    <string name="user_report">User Report</string>
+    <string name="user_wise_audit_trail">Userwise audit trail</string>
+    <string name="search_file_using_metadata">Search files using metadata</string>
+    <string name="tasks">Tasks</string>
+    <string name="my_dms">My Dms</string>
+    <string name="explore_the_dms">Explore the dms</string>
+    <string name="version">version</string>
+    <string name="no_internet_connection_found">No internet connection found</string>
+    <string name="quick_search_hint">Quick Search : files , documents ...</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="workflow_report">Workflow Report</string>
+    <string name="check_your_internet_connection_and_try_again">Check your internet connection and try again</string>
+    <string name="memory_usage_in_mb">Memory Usage in (mb)</string>
+    <string name="pages">Pages</string>
+
+
+</resources>
